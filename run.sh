@@ -1,6 +1,6 @@
 #!/bin/sh -e
 DEVICE=$1
-[ "$DEVICE" = "" ] && DEVICE=fenix3_sim
+[ "$DEVICE" = "" ] && DEVICE=fenix5_sim
 
 killall simulator || true
 connectiq
