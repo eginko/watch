@@ -2,7 +2,7 @@
     <iq:application entry="ActivityWidgetApp" id="cad0a3c2fcc8479fb8b4edd9cfd768e2" launcherIcon="LauncherIcon" name="AppName" type="widget">
 
         <iq:products>
-            <iq:product id="fenix3"/>
+            <iq:product id="fenix5"/>
             <!-- <iq:product id="vivoactive"/> -->
             <!-- <iq:product id="fr920xt"/> -->
             <!-- <iq:product id="epix"/> -->
